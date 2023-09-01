@@ -2,11 +2,6 @@
 
 * [Sobre o autor](#introdução)
 * [Principais conhecimento](#Principais-conhecimentos)
-* [Primeiro Semestre - Fatech](#em-2021-2)
-* [Segundo Semestre - Fatech](#em-2022-1)
-* [Terceiro Semestre - Fatech](#em-2022-2)
-* [Quarto Semestre - Fatech](#em-2023-1)
-* [Quinto Semestre - Fatech](#em-2023-2)
 * [Contatos](#contatos)
 
 # Gabriel Coutinho Silva
