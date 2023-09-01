@@ -90,5 +90,5 @@ Minha participação incluiu a criação da lógica necessária para acessar um 
 * Trabalho em equipe - Um ponto crucial para garantir que o projeto chegue até o cliente dentro do prazo e funcionando corretamente. Isso faz toda a diferença para a satisfação final do cliente e o sucesso do projeto.
 * Perseverança - A equipe estava novata na programação e enfrentou muitas dificuldades, mas não desistir foi fundamental para o nosso sucesso. A persistência mostrou que podíamos superar os desafios, mesmo quando tudo parecia difícil. No fim das contas, essa atitude fez toda a diferença para alcançarmos nossos objetivos.
 * Gerenciamento de tempo - Foi uma jornada em que todos nós precisamos aprender a equilibrar nosso próprio tempo para não deixar a equipe na mão. Essa experiência nos ensinou sobre responsabilidade mútua e o valor de trabalhar juntos.
-* 
+
 ##
