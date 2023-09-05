@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
 </div>
 
-## Contato
+## Contatos
 <div>
     <a href="https://www.linkedin.com/in/gabrielcoutinhosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
@@ -44,7 +44,7 @@ O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonage
 	<p align="center"><strong>Prévia da raspagem</strong></p>
 </p>
 
-### Cloangem
+### Clonagem
 <p align="center">
 	<img src="/img/clonagem.gif" alt="Prévia da solução">
 	<p align="center"><strong>Prévia da clonagem</strong></p>
