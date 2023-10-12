@@ -138,6 +138,7 @@ O objetivo deste projeto era desenvolver uma aplicação capaz de automatizar o 
 Dentro da aplicação, os usuários têm a capacidade de criar e gerenciar contas, cadastrar informações relevantes sobre as aeronaves e os fatores que influenciam nos cálculos, como marca da aeronave, tipo de motor e condições climáticas, incluindo chuva e vento. A aplicação permite realizar o cálculo da pista mínima respeitando esses critérios, otimizando o processo.
 
 * Vídeo sobre o projeto:
+  
 https://github.com/Gabriel-Coutinho0/Portifolio-Gabriel-Coutinho-Silva/assets/67170978/3929c940-3bcb-4a1f-bee5-53f4dfdfb4cd
 
 *[Para uma visualização mais detalhada acesse o repositório do projeto](https://github.com/Grupo-4-Fatech/API-3Semestre)*
