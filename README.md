@@ -6,6 +6,8 @@
 * [Segundo Semestre - Fatech](#em-2022-1)
 * [Terceiro Semestre - Fatech](#em-2022-2)
 * [Quarto Semestre - Fatech](#em-2023-1)
+* [Quinto Semestre - Fatech](#em-2023-2)
+
 
 * [Contatos](#contatos)
 
@@ -14,7 +16,7 @@
 ## Introdução
 <div>
 	<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, assistende de programação para auxilio e desenvolvimento de websites. Gosto bastante da área de desenvolvimento web, com foco principal em ReactJS/TS, VueJs/Ts, buscando sempre aperfeiçoar meu conhecimento na área. No começo de julho tive a minha primeira oportunidade de trabalhar como assistente de programação com foco no desenvolvimento de sites.</p>
+	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, assistente de programação para auxilio e desenvolvimento de websites. Gosto bastante da área de desenvolvimento web, com foco principal em ReactJS/TS, VueJs/Ts, buscando sempre aperfeiçoar meu conhecimento na área. Meu primeiro emprego foi como aprendiz de qualidade, e nele, tive a oportunidade de mergulhar no funcionamento de uma empresa, tanto do ponto de vista profissional quanto pessoal. A experiência me proporcionou valiosos aprendizados sobre como me portar, dedicar-me às entregas e compreender o funcionamento do mundo profissional. Foi uma fase importante para meu desenvolvimento tanto como profissional quanto como indivíduo. No começo de julho tive a minha primeira oportunidade de trabalhar como assistente de programação com foco no desenvolvimento de sites.</p>
 </div>
 
 ## Principais conhecimentos
@@ -66,7 +68,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do JavaScript" width="200" /> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), Foi utilizado para a criação do site.
 
 * <img src="https://img.freepik.com/icones-gratis/html-5_318-674234.jpg" alt="Logo do HTML" width="200" /> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), Foi utilado para estruturar o site.
-* <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="Logo do CSS" width="200" /> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), Foi utilizado para a estilização do site.
+* <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="Logo do CSS" width="200" /> [CSS](https://developer.mozilla.org/pt-BR/docs/Web/HTML), Foi utilizado para a estilização do site.
 
 
 #### Contribuições pessoais
@@ -114,7 +116,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="Logo do netBeans" width="200" /> [NetBeans](https://netbeans.apache.org/), Foi utilizado como IDE para o desenvolvimento do código.
 
 #### Contribuições pessoais
-Estive envolvido na etapa de prototipagem das telas e contribuí para o desenvolvimento do projeto desde sua concepção.
+Minha participação foi além da simples observação na fase de prototipagem das telas. Estive envolvido de maneira ativa, colocando a mão na massa no desenvolvimento do chat e na criação das telas, além de contribuir para a implementação de algumas das funções do projeto.
 
 #### Hard Skills
 * Programação em JAVA: Sei fazer com ajuda.
@@ -153,7 +155,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/),Utilizado como ferramenta de apoio para o desenvolvimento do código.
 
 #### Contribuições pessoais
-Participei ativamente na fase de criação de protótipos das telas e desempenhei um papel significativo no desenvolvimento do projeto, concentrando-me principalmente no desenvolvimento das páginas do frontend.
+Participei ativamente na fase de criação de protótipos das telas, desempenhando um papel fundamental na elaboração das telas frontend. A oportunidade de assumir responsabilidades de comunicação direta com o cliente foi uma experiência significativa. Durante esse período, também fui responsável por desenvolver um backlog que se revelou importante para otimizar as entregas e satisfazer as expectativas do cliente.
 
 #### Hard Skills
 
@@ -232,3 +234,41 @@ Me envolvi ativamente na fase de criação de protótipos das telas e desempenhe
 * Trabalho em equipe: Dada a complexidade do projeto, exploramos estratégias para assegurar que todas as atividades propostas fossem entregues de maneira eficiente, sem sobrecarregar nenhum membro da equipe.
 * Organização: Nesta minha segunda experiência como Product Owner, pude aplicar os conhecimentos adquiridos na experiência anterior e aprimorei ainda mais minhas habilidades. Aprendi a criar backlogs de forma mais eficiente e a distribuir tarefas ao longo de sprints, o que contribuiu de maneira significativa para a organização do projeto. Essa base de experiência anterior me permitiu gerenciar o projeto com maior eficácia e eficiência.
 * Gerenciamento de tempo: Como Product Owner, aprimorei habilidades de gerenciamento de tempo, permitindo-me estruturar o projeto e cumprir as tarefas propostas de maneira eficaz.
+
+
+### Em 2023-2
+### Parceiro Acadêmico
+
+Cliente: Imagem
+
+### Visão do projeto 
+Proporcionar uma aplicação móvel que habilite a consulta, atualização, desativação e cadastro de informações referentes aos equipamentos ativos da empresa constitui-se como objetivo primordial. Essa aplicação móvel visa oferecer uma solução eficiente para a gestão completa do cadastro dos ativos, assegurando a capacidade de manter esses dados constantemente atualizados através do dispositivo móvel.
+<p align="center">
+	<img src="./img/mapa2.gif" alt="Prévia do mapa">
+	<p align="center"><strong>Prévia do mapa</strong></p>
+</p>
+
+*[Para uma visualização mais detalhada acesse o repositório do projeto](https://github.com/4-Fatech/API5Semestre)*
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="200" /> [TypeScript](https://www.typescriptlang.org/), Foi Utilizado para criação das interfaces quanto da conexão com o banco de dados.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Logo do React" width="200" /> [React](https://react.dev/), Foi o framework utilizado para desenvolvimento de interfaces simples e interativas.
+* <img src="https://camo.githubusercontent.com/a1ef4331694eb076ce159cf4c7c3fe2c19b91a19d718ddf25176fd2a3f1c6b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f" alt="Logo do MongoDB" width="200" /> [MongoDB](https://www.mongodb.com/pt-br), Utilizado como banco de dados do projeto.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/),Utilizado como ferramenta de apoio para o desenvolvimento do código.
+
+#### Contribuições pessoais
+Participei ativamente na criação dos protótipos das telas e desempenhei um papel fundamental no desenvolvimento do projeto, concentrando-me principalmente nas páginas do frontend. Contribuí significativamente para a reformualação de códigos, criação de componentes e estilização do projeto, visando tornar sua utilização mais fácil e eficiente.
+
+#### Hard Skills
+
+* Programação em TypeScript: Sei fazer com autonomia.
+* Desenvolvimento Mobile em React Native: Sei fazer com autonomia.
+* Banco de Dados (MongoDB): Sei fazer com ajuda.
+
+ #### Soft Skills
+
+* Trabalho em equipe: Dada a complexidade do projeto, exploramos estratégias para assegurar que todas as atividades propostas fossem entregues de maneira eficiente, sem sobrecarregar nenhum membro da equipe.
+* Adaptabilidade: A equipe enfrentou um tema de projeto totalmente desconhecido, o que nos levou a descobrir os detalhes de cada funcionalidade um dia de cada vez. Essa abordagem nos permitiu evitar ansiedades em relação à aplicabilidade real do nosso software.
+* Criatividade: Trabalhar em um aplicativo móvel me deu espaço para pensar de maneiras diferentes sobre como criar as telas (protótipos) e suas funções. Foi legal poder explorar abordagens inovadoras, adicionando um toque criativo à experiência do usuário.
