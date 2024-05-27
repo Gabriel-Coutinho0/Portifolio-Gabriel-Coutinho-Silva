@@ -308,17 +308,17 @@ Participei na criação dos mockups e no desenvolvimento final da prototipação
 
 ### Hard Skills
 
-*Programação em Java com Spring Boot: Sei fazer com ajuda.
+* Programação em Java com Spring Boot: Sei fazer com ajuda.
 
-*Desenvolvimento Web em Vue: Sei fazer com autonomia.
+* Desenvolvimento Web em Vue: Sei fazer com autonomia.
 
-*Banco de Dados (Supabase): Sei fazer com autonomia.
+* Banco de Dados (Supabase): Sei fazer com autonomia.
 
-*Desenvolvimento e treinamento de uma IA (YoloV8): Sei fazer com ajuda.
+* Desenvolvimento e treinamento de uma IA (YoloV8): Sei fazer com ajuda.
 
-*Controle de Versão (Git): Sei fazer com autonomia.
+* Controle de Versão (Git): Sei fazer com autonomia.
 
 ### Soft Skills
 
-*Gerenciamento de tempo: Como responsável pelo front-end, adaptei-me e mantive uma consistência rigorosa para assegurar que as entregas fossem realizadas dentro dos prazos estabelecidos.
-*Proatividade: Considerando que a IA era uma tecnologia nova e de maior foco no projeto, assumi a responsabilidade de construir o front-end, permitindo que meus colegas concentrassem seus esforços na IA.
+* Gerenciamento de tempo: Como responsável pelo front-end, adaptei-me e mantive uma consistência rigorosa para assegurar que as entregas fossem realizadas dentro dos prazos estabelecidos.
+* Proatividade: Considerando que a IA era uma tecnologia nova e de maior foco no projeto, assumi a responsabilidade de construir o front-end, permitindo que meus colegas concentrassem seus esforços na IA.
