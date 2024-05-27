@@ -284,8 +284,9 @@ Cliente: Altave
 
 Desenvolver uma aplicação web onde seja possível consultar, atualizar, desativar e cadastrar dados das redzones, departamentos e usuários e monitorar o fluxo de pessoas que adentram uma redzone, via aplicação web.
 
-<img src="../img/historico.gif">
-*[Para uma visualização mais detalhada acesse o repositório do projeto](https://github.com/4-Fatech/API-6SEM)*
+<img src="./img/historico.gif"/>
+
+[Para uma visualização mais detalhada acesse o repositório do projeto](https://github.com/4-Fatech/API-6SEM)
 
 ## Tecnologias adotadas na solução
 
@@ -296,7 +297,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://skillicons.dev/icons?i=vue" width="200" /> Vue, Framework utilizado para desenvolvimento e estilização de interfaces simples e interativas.
 * <img src="https://skillicons.dev/icons?i=vuetify" width="200" /> Vuetify, Framework responsivo baseado em Vuejs utilizado para estilização e responsividade das telas.
 * <img src="https://skillicons.dev/icons?i=supabase" width="200" /> Supabase, Utilizado como banco de dados do projeto.
-* <img src="../img/ultra.svg" width="200" /> Ultralytics YoloV8, Utilizado para treinamento da IA e conexão ao banco de dados.
+* <img src="./img/ultra.svg" width="200" /> Ultralytics YoloV8, Utilizado para treinamento da IA e conexão ao banco de dados.
 * <img src="https://skillicons.dev/icons?i=py" width="200" /> Python, Utilizado para manuseio da IA.
 * <img src="https://skillicons.dev/icons?i=azure" width="200" /> Azure, Utilizado como ferramenta de gestão da equipe.
 * <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code, Utilizado como ferramenta de apoio para o desenvolvimento do código.
