@@ -7,6 +7,7 @@
 * [Terceiro Semestre - Fatech](#em-2022-2)
 * [Quarto Semestre - Fatech](#em-2023-1)
 * [Quinto Semestre - Fatech](#em-2023-2)
+* [Sexto Semestre - Fatech](#em-2024-1)
 
 
 * [Contatos](#contatos)
@@ -272,3 +273,51 @@ Participei ativamente na criação dos protótipos das telas e desempenhei um pa
 * Trabalho em equipe: Dada a complexidade do projeto, exploramos estratégias para assegurar que todas as atividades propostas fossem entregues de maneira eficiente, sem sobrecarregar nenhum membro da equipe.
 * Adaptabilidade: A equipe enfrentou um tema de projeto totalmente desconhecido, o que nos levou a descobrir os detalhes de cada funcionalidade um dia de cada vez. Essa abordagem nos permitiu evitar ansiedades em relação à aplicabilidade real do nosso software.
 * Criatividade: Trabalhar em um aplicativo móvel me deu espaço para pensar de maneiras diferentes sobre como criar as telas (protótipos) e suas funções. Foi legal poder explorar abordagens inovadoras, adicionando um toque criativo à experiência do usuário.
+
+
+### Em 2024-1
+### Parceiro Acadêmico
+
+Cliente: Altave
+
+### Visão do Projeto
+
+Desenvolver uma aplicação web onde seja possível consultar, atualizar, desativar e cadastrar dados das redzones, departamentos e usuários e monitorar o fluxo de pessoas que adentram uma redzone, via aplicação web.
+
+<img src="../img/historico.gif">
+*[Para uma visualização mais detalhada acesse o repositório do projeto](https://github.com/4-Fatech/API-6SEM)*
+
+## Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:
+
+* <img src="https://skillicons.dev/icons?i=java" width="200" /> Java, Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.
+* <img src="https://skillicons.dev/icons?i=spring" width="200" /> Spring Boot, Framework do Java, utilizado no desenvolvimento do servidor back-end.
+* <img src="https://skillicons.dev/icons?i=vue" width="200" /> Vue, Framework utilizado para desenvolvimento e estilização de interfaces simples e interativas.
+* <img src="https://skillicons.dev/icons?i=vuetify" width="200" /> Vuetify, Framework responsivo baseado em Vuejs utilizado para estilização e responsividade das telas.
+* <img src="https://skillicons.dev/icons?i=supabase" width="200" /> Supabase, Utilizado como banco de dados do projeto.
+* <img src="../img/ultra.svg" width="200" /> Ultralytics YoloV8, Utilizado para treinamento da IA e conexão ao banco de dados.
+* <img src="https://skillicons.dev/icons?i=py" width="200" /> Python, Utilizado para manuseio da IA.
+* <img src="https://skillicons.dev/icons?i=azure" width="200" /> Azure, Utilizado como ferramenta de gestão da equipe.
+* <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code, Utilizado como ferramenta de apoio para o desenvolvimento do código.
+
+## Contribuições Pessoais
+
+Participei na criação dos mockups e no desenvolvimento final da prototipação do projeto. Meu foco principal foi no desenvolvimento do front-end, onde elaborei as principais regras de negócios, bem como a implementação de permissionamento e privação de rotas. Também contribuí no backend, criando rotas para pesquisas específicas e necessárias para o projeto.
+
+### Hard Skills
+
+*Programação em Java com Spring Boot: Sei fazer com ajuda.
+
+*Desenvolvimento Web em Vue: Sei fazer com autonomia.
+
+*Banco de Dados (Supabase): Sei fazer com autonomia.
+
+*Desenvolvimento e treinamento de uma IA (YoloV8): Sei fazer com ajuda.
+
+*Controle de Versão (Git): Sei fazer com autonomia.
+
+### Soft Skills
+
+*Gerenciamento de tempo: Como responsável pelo front-end, adaptei-me e mantive uma consistência rigorosa para assegurar que as entregas fossem realizadas dentro dos prazos estabelecidos.
+*Proatividade: Considerando que a IA era uma tecnologia nova e de maior foco no projeto, assumi a responsabilidade de construir o front-end, permitindo que meus colegas concentrassem seus esforços na IA.
