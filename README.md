@@ -232,7 +232,6 @@ Me envolvi ativamente na fase de criação de protótipos das telas e desempenhe
 
   #### Soft Skills
 
-* Trabalho em equipe: Dada a complexidade do projeto, exploramos estratégias para assegurar que todas as atividades propostas fossem entregues de maneira eficiente, sem sobrecarregar nenhum membro da equipe.
 * Organização: Nesta minha segunda experiência como Product Owner, pude aplicar os conhecimentos adquiridos na experiência anterior e aprimorei ainda mais minhas habilidades. Aprendi a criar backlogs de forma mais eficiente e a distribuir tarefas ao longo de sprints, o que contribuiu de maneira significativa para a organização do projeto. Essa base de experiência anterior me permitiu gerenciar o projeto com maior eficácia e eficiência.
 * Gerenciamento de tempo: Como Product Owner, aprimorei habilidades de gerenciamento de tempo, permitindo-me estruturar o projeto e cumprir as tarefas propostas de maneira eficaz.
 
@@ -270,7 +269,6 @@ Participei ativamente na criação dos protótipos das telas e desempenhei um pa
 
  #### Soft Skills
 
-* Trabalho em equipe: Dada a complexidade do projeto, exploramos estratégias para assegurar que todas as atividades propostas fossem entregues de maneira eficiente, sem sobrecarregar nenhum membro da equipe.
 * Adaptabilidade: A equipe enfrentou um tema de projeto totalmente desconhecido, o que nos levou a descobrir os detalhes de cada funcionalidade um dia de cada vez. Essa abordagem nos permitiu evitar ansiedades em relação à aplicabilidade real do nosso software.
 * Criatividade: Trabalhar em um aplicativo móvel me deu espaço para pensar de maneiras diferentes sobre como criar as telas (protótipos) e suas funções. Foi legal poder explorar abordagens inovadoras, adicionando um toque criativo à experiência do usuário.
 
@@ -304,7 +302,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 ## Contribuições Pessoais
 
-Participei na criação dos mockups e no desenvolvimento final da prototipação do projeto. Meu foco principal foi no desenvolvimento do front-end, onde elaborei as principais regras de negócios, bem como a implementação de permissionamento e privação de rotas. Também contribuí no backend, criando rotas para pesquisas específicas e necessárias para o projeto.
+Participei na criação dos mockups e no desenvolvimento final da prototipação do projeto. Meu foco principal foi no desenvolvimento do front-end, onde elaborei as principais regras de negócios,gerenciamento de departamentos, auxiliei no desenvolvimento do gerenciamento de usuários e redzones, elaborei a implementação de niveis de acesso, sendo eles adminstrador geral, de área e guarda, juntamente com a privação de rotas impedindo o acesso não autorizado a aplicação. Também contribuí no backend, criando rotas para pesquisas específicas e necessárias para o projeto.
 
 ### Hard Skills
 
